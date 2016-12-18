@@ -1,0 +1,79 @@
+{"name":"SWEET",
+		"children":[
+						{"name":"Representation",
+							"children":[{"name":"Math","size":"2122"},
+										{"name":"Space","size":"2122"},
+										{"name":"Science","size":"2122"},
+										{"name":"Data","size":"2122"},
+										{"name":"Time","size":"2122"}
+										
+								]
+						},
+						{"name":"Human Activities",
+							"children":[{"name":"Decision","size":"2122"},
+										{"name":"Commerce","size":"2122"},
+										{"name":"Jurisdiction","size":"2122"},
+										{"name":"Research","size":"2122"},
+										{"name":"Environmental","size":"2122"}
+										
+								]
+						},
+						{"name":"Realm",
+							"children":[{"name":"Astronomical",
+												"children":[{"name":"Asteroid","size":"2122"},
+															{"name":"Star","size":"2122"},
+															{"name":"Planet","size":"2122"},
+															{"name":"Moon","size":"2122"},
+															{"name":"Body","size":"2122"},
+															{"name":"Galaxy","size":"2122"},
+															{"name":"Comet","size":"2122"},
+															{"name":"Satellite","size":"2122"},
+															{"name":"Extraterrestrial","size":"2122"}
+															]},
+										{"name":"Planetary",
+												"children":[{"name":"Ionoshere","size":"2122"},
+															{"name":"DLayer","size":"2122"},
+															{"name":"Heliosphere","size":"2122"},
+															{"name":"Exosphere","size":"2122"},
+															{"name":"Magnetospere","size":"2122"}
+															
+															]},
+										{"name":"Outer Space","children":[{"name":"Realm","size":"2122"}
+															
+															]}]},
+						{"name":"State","children":[{"name":"Role","size":"2122"},
+															{"name":"Physical","size":"2122"},
+															{"name":"Chemical","size":"2122"},
+															{"name":"Space","size":"2122"},
+															{"name":"Biological","size":"2122"}
+
+															
+															]},
+
+										{"name":"Relation","children":[{"name":"Human","size":"2122"},
+															{"name":"Physical","size":"2122"},
+															{"name":"Time","size":"2122"},
+															{"name":"Space","size":"2122"},
+															{"name":"Chemical","size":"2122"}
+
+															
+															]},
+										{"name":"Matter","children":[{"name":"Living Things","size":"2122"},
+															{"name":"Material Things","size":"2122"},
+															{"name":"Chemical","size":"2122"}
+															
+
+															
+															]}
+
+
+
+										
+										
+								]
+						}
+
+
+
+			
+
